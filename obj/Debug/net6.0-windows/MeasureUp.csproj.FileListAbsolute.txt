@@ -1,0 +1,17 @@
+C:\Users\Oswald\Documents\MeasureUpApp\MeasureUp\bin\Debug\net6.0-windows\MeasureUp.exe
+C:\Users\Oswald\Documents\MeasureUpApp\MeasureUp\bin\Debug\net6.0-windows\MeasureUp.deps.json
+C:\Users\Oswald\Documents\MeasureUpApp\MeasureUp\bin\Debug\net6.0-windows\MeasureUp.runtimeconfig.json
+C:\Users\Oswald\Documents\MeasureUpApp\MeasureUp\bin\Debug\net6.0-windows\MeasureUp.dll
+C:\Users\Oswald\Documents\MeasureUpApp\MeasureUp\bin\Debug\net6.0-windows\MeasureUp.pdb
+C:\Users\Oswald\Documents\MeasureUpApp\MeasureUp\obj\Debug\net6.0-windows\MeasureUp.csproj.AssemblyReference.cache
+C:\Users\Oswald\Documents\MeasureUpApp\MeasureUp\obj\Debug\net6.0-windows\MeasureUp.FrmMeasureUp.resources
+C:\Users\Oswald\Documents\MeasureUpApp\MeasureUp\obj\Debug\net6.0-windows\MeasureUp.csproj.GenerateResource.cache
+C:\Users\Oswald\Documents\MeasureUpApp\MeasureUp\obj\Debug\net6.0-windows\MeasureUp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oswald\Documents\MeasureUpApp\MeasureUp\obj\Debug\net6.0-windows\MeasureUp.AssemblyInfoInputs.cache
+C:\Users\Oswald\Documents\MeasureUpApp\MeasureUp\obj\Debug\net6.0-windows\MeasureUp.AssemblyInfo.cs
+C:\Users\Oswald\Documents\MeasureUpApp\MeasureUp\obj\Debug\net6.0-windows\MeasureUp.csproj.CoreCompileInputs.cache
+C:\Users\Oswald\Documents\MeasureUpApp\MeasureUp\obj\Debug\net6.0-windows\MeasureUp.dll
+C:\Users\Oswald\Documents\MeasureUpApp\MeasureUp\obj\Debug\net6.0-windows\refint\MeasureUp.dll
+C:\Users\Oswald\Documents\MeasureUpApp\MeasureUp\obj\Debug\net6.0-windows\MeasureUp.pdb
+C:\Users\Oswald\Documents\MeasureUpApp\MeasureUp\obj\Debug\net6.0-windows\MeasureUp.genruntimeconfig.cache
+C:\Users\Oswald\Documents\MeasureUpApp\MeasureUp\obj\Debug\net6.0-windows\ref\MeasureUp.dll
